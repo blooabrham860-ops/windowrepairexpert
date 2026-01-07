@@ -1,0 +1,44 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 20px;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma">1. Is it cheaper to replace the glass or the whole window?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">In most cases, replacing just the glass is significantly more affordable, especially for residential window repair. If the frame is in good condition, we can perform a window glass replacement for about 30-50% of the cost of a full unit replacement.</p>
+                <h4 class="template4 palooma">2. How do I know if my window seal is broken?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The most common sign is persistent fogging or condensation between the panes of glass that cannot be wiped away from either side. This indicates the insulating gas has leaked out, necessitating a window seal repair or an IGU replacement.</p>
+                <h4 class="template4 palooma">3. What is the average vinyl window installation cost?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The vinyl window installation cost typically ranges from $600 to $1,500 per window, including labor. Prices vary based on the window's size, the glass's energy-efficiency rating, and the complexity of the installation in your specific state.</p>
+                <h4 class="template4 palooma">4. Can you repair a window regulator, or does it have to be replaced?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">While some minor cable issues can be adjusted, a failing auto window regulator repair usually involves replacing the internal assembly. This ensures long-term reliability for your power window repair and prevents the window from falling again.</p>
+                <div class="callalooma mx-auto"><a href="tel:888-611-9876">Click Here To Call Us (888) 611-9876</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
